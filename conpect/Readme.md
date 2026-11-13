@@ -373,8 +373,6 @@ $$\text{Производительность} = \frac{\text{Длина}}{\text{�
 
 $$\text{Качество} = \frac{\text{Ошибки}}{\text{Длина}} \left[ \frac{\text{единиц}}{\text{тыс. LOC}} \right]$$
 
-$$\text{Удельная стоимость} = \frac{\text{Стоимость}}{\text{Длина}} \left[ \frac{\text{тыс. \$}}{\text{LOC}} \right]$$
-
 $$\text{Документированность} = \frac{\text{Страниц документа}}{\text{Длина}} \left[ \frac{\text{страниц}}{\text{тыс. LOC}} \right]$$
 
 **Достоинства:** широко распространены; просты и легко вычисляются.
@@ -412,8 +410,6 @@ $$FP = \text{Общее количество} \times \left(0{,}65 + 0{,}01 \time
 $$\text{Производительность} = \frac{\text{ФункцУказатель}}{\text{Затраты}} \left[ \frac{\text{FP}}{\text{чел.-мес}} \right]$$
 
 $$\text{Качество} = \frac{\text{Ошибки}}{\text{ФункцУказатель}} \left[ \frac{\text{единиц}}{\text{FP}} \right]$$
-
-$$\text{Unit Cost} = \frac{\text{Cost}}{\text{Function Points}} \left[ \frac{\text{thousand \$}}{\text{FP}} \right]$$
 
 $$\text{Документированность} = \frac{\text{Страниц документа}}{\text{ФункцУказатель}} \left[ \frac{\text{страниц}}{\text{FP}} \right]$$
 
