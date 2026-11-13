@@ -373,7 +373,8 @@ $$\text{Производительность} = \frac{\text{Длина}}{\text{�
 
 $$\text{Качество} = \frac{\text{Ошибки}}{\text{Длина}} \left[ \frac{\text{единиц}}{\text{тыс. LOC}} \right]$$
 
-$$\text{Удельная стоимость} = \frac{\text{Стоимость}}{\text{Длина}} \left[ \frac{\text{тыс. \$}}{\text{LOC}} \right]$$
+```math
+\text{Удельная стоимость} = \frac{\text{Стоимость}}{\text{Длина}} \left[ \frac{\text{тыс. \$}}{\text{LOC}} \right]
 
 $$\text{Документированность} = \frac{\text{Страниц документа}}{\text{Длина}} \left[ \frac{\text{страниц}}{\text{тыс. LOC}} \right]$$
 
@@ -413,7 +414,8 @@ $$\text{Производительность} = \frac{\text{ФункцУказа
 
 $$\text{Качество} = \frac{\text{Ошибки}}{\text{ФункцУказатель}} \left[ \frac{\text{единиц}}{\text{FP}} \right]$$
 
-$$\text{Удельная стоимость} = \frac{\text{Стоимость}}{\text{ФункцУказатель}} \left[ \frac{\text{тыс. \$}}{\text{FP}} \right]$$
+```math
+\text{Удельная стоимость} = \frac{\text{Стоимость}}{\text{ФункцУказатель}} \left[ \frac{\text{тыс. \$}}{\text{FP}} \right]
 
 $$\text{Документированность} = \frac{\text{Страниц документа}}{\text{ФункцУказатель}} \left[ \frac{\text{страниц}}{\text{FP}} \right]$$
 
