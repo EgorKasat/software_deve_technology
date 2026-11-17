@@ -2,6 +2,8 @@
 
 # [ Конспект ](/conpect "Конспект по учебнику Орлова")
 
+# [ Лабораторные и задания ](/tasks "лабораторные и задания")
+
 **Ссылка на этот файл:** [README.md](README.md)
 
 # Software Development Technology
