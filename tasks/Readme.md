@@ -1,5 +1,5 @@
 # Лабораторные
-## [LAB_1](Lab/TZ.docx)
+## [LAB_1](Lab/Readme.md)
 
 # Задания
 ## [Task_UML_png](UML/UML_Phone_png.drawio.png)
